@@ -51,3 +51,8 @@ background: var(--primary-color-dark);
 form button:active{
     background: var(--primary-color-arctive);
 }
+.paragrafo-resultado, .bad{
+    background: #79f161;
+    padding: 10px 20px;
+}
+.bad{background: rgb(255, 152, 152);}
